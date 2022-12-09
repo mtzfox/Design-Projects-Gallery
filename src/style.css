@@ -1,0 +1,12 @@
+:root {
+  --body-text: rgb(36, 35, 35);
+}
+
+body {
+  margin: 5vw 5vh;
+  color: var(--body-text);
+}
+
+.app {
+  background: lightgray;
+}
